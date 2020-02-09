@@ -9,4 +9,5 @@ h1 {
   align-items: center;
   transform: rotate(90deg);
   font-size: 100px;
+  font-family: sans-serif;
 }
