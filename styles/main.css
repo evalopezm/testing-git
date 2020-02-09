@@ -1,3 +1,12 @@
 h1 {
   font-family: sans-serif;
 }
+
+.carita {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  transform: rotate(90deg);
+  font-size: 100px;
+}
